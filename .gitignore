@@ -1,0 +1,11 @@
+*.user
+src/WebPictureService/project.lock.json
+*.suo
+.vs/config/applicationhost.config
+packages/*
+*/Debug/*
+*/Release/*
+*/bin/*
+*/.vs/*
+*/Web/wwwroot/downloads/*
+.build/*
