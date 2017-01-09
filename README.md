@@ -1,2 +1,0 @@
-# WebPictureService
-Picture service
